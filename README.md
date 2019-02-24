@@ -6,3 +6,10 @@ first X applies value to the var x
 second x is checking that x is less then width so that the loop will run again if it is true
 thrid x is incrementing x by 10 every frame.
 
+
+
+1.How many times does the loop body run each frame, once the x and y arrays are full?
+
+What are two ways of increasing the spacing between rings?
+How can you make the ellipse trail longer?
+Next, make the following changes:
