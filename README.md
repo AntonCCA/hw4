@@ -9,7 +9,12 @@ thrid x is incrementing x by 10 every frame.
 
 
 1.How many times does the loop body run each frame, once the x and y arrays are full?
+50
 
 What are two ways of increasing the spacing between rings?
+adding to the array
+
 How can you make the ellipse trail longer?
-Next, make the following changes:
+change the value of var i
+
+
